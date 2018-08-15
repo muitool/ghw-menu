@@ -149,12 +149,11 @@ class MenuAppBar extends React.Component {
         </AppBar>
 
         <div>
-          <Route exact path="/" component={Home} />
-
           <Route path={`/${selectedKey}/view1`} component={ShowTheLocation} />
           <Route path={`/${selectedKey}/view2`} component={ShowTheLocation} />
           <Route path={`/${selectedKey}/view3`} component={ShowTheLocation} />
           <Route path={`/${selectedKey}/view4`} component={ShowTheLocation} />
+          <Route path="*" component={Home} />
         </div>
       </div>
     );
