@@ -138,7 +138,7 @@ class MenuAppBar extends React.Component {
               <IconButton
                 component="a"
                 color="inherit"
-                href="https://github.com/stormasm/ghw-menu"
+                href="https://github.com/muitool/ghw-menu"
                 aria-label="GitHub repository"
               >
                 <GithubIcon />
