@@ -12,7 +12,7 @@ being the primary navigation element instead of the
 **[Menu](https://material-ui.com/demos/menus/)**
 
 This demo is an extension of
-[mui-menu](https://github.com/stormasm/mui-tutorial-demo/tree/master/mui-menu) and it is assumed that you have already reviewed the concepts and
+[mui-menu](https://github.com/stormasm/mui-menu) and it is assumed that you have already reviewed the concepts and
 documentation associated with that repo.
 
 ### The Card Views
