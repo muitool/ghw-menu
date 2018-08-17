@@ -27,9 +27,10 @@ in concert with
 [Material-UI Tables](https://material-ui.com/demos/tables/)
 * Cards displayed with no avatars
 
-#### Code Details
+### The Material-UI Tutorial
 
-The **Admin** functionality was removed from this repo
-because it is not used or relevant; but it is
-still used and relevant in
-[mui-menu](https://github.com/stormasm/mui-tutorial-demo/tree/master/mui-menu#adding-dynamic-routes)
+If you have not already read the **[The Material-UI Tutorial](https://stormasm.github.io/mui-tutorial/)**
+you should read it first prior to diving deeply into
+this code base.  It will give you all of the background
+material you need to better understand the concepts
+discussed in this code.
