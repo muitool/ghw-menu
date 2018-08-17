@@ -67,7 +67,7 @@ class MenuAppBar extends React.Component {
               color="inherit"
               className={classes.flex}
             >
-              Github Worlds
+              Github Worlds Menu
             </Typography>
             <div>
               <Typography
