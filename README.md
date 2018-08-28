@@ -5,7 +5,7 @@ Github Worlds menu is a visualization toolkit that provides
 **Views** into JSON data that comes from the
 [Github GraphQL API](https://developer.github.com/v4/).
 It is called Github Worlds **menu** because there is also a
-Github Worlds **drawer** which displays the same data and views
+**[Github Worlds drawer](https://github.com/muitool/ghw-drawer)** which displays the same data and views
 but with the
 **[Drawer](https://material-ui.com/demos/drawers/)**
 being the primary navigation element instead of the
