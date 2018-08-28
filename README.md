@@ -47,7 +47,7 @@ state through a Provider interface inside **Root**.  Next up is the **MenuAppBar
 [React-Router](https://reacttraining.com/react-router/core/guides/philosophy)
 Route definitions.  Finally, when you select a view inside the menu Views.
 
-**ShowTheLocation** will select the proper **DataViewWrapper** given the repo name and view name as
+**ShowTheLocation** will select the properties that get passed into the **DataViewWrapper** given the repo name and view name as
 [props](https://reactjs.org/docs/components-and-props.html#props-are-read-only).
 
 ### DataViewWrapper
