@@ -103,37 +103,6 @@ The View takes in the prop **tileData** which is the data that was fetched from 
 
 Any custom view that you define will take in tileData as a prop and then its up to you to build out your own styled component View.
 
-### DataView Examples
-
-#### AppBar
-
-At the top of the hierarchy are ways to organize information or
-websites.  All websites need to have an
-[AppBar](https://material-ui.com/demos/app-bar/).  A nice example
-of an AppBar in action is the
-[Material-UI Home Page](https://material-ui.com/).
-There you will
-see the Icon button for drawer open and close.  In the repos
-in this tutorial you
-will see the same functionality.
-
-#### Gridlists
-
-The Gridlist is used to display a collection of Cards in both
-a single horizontal line and with three cards per row.
-
-#### Cards
-
-The cards in this demo contain different data types about
-each user that commits to a Github
-repository including:
-  * the user's name
-  * the user's location
-  * the user's username
-  * a link to the avatar of the user
-
-One can also grab data surrounding stars and forks as well.
-
 ### The Material-UI Tutorial
 
 If you have not already read the **[The Material-UI Tutorial](https://stormasm.github.io/mui-tutorial/)**
