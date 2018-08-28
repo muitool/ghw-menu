@@ -18,7 +18,7 @@ This demo is an extension of
 documentation associated with that repo.
 
 There is an order to the demos in the
-**[Material-UI Tutorial](https://stormasm.github.io/mui-tutorial/)**
+**[Material-UI Tutorial](https://github.com/topics/material-ui-tutorial)**
 and this one is the last tutorial to review.  We highly recommend reviewing the other tutorials first so that you get all of the background information you need prior to reviewing this tutorial.
 
 * [mui-drawer](https://stormasm.github.io/mui-drawer/)
