@@ -11,9 +11,21 @@ but with the
 being the primary navigation element instead of the
 **[Menu](https://material-ui.com/demos/menus/)**
 
+### The List of Demos in the Material-UI Tutorial
+
 This demo is an extension of
 [mui-menu](https://stormasm.github.io/mui-menu/) and it is assumed that you have already reviewed the concepts and
 documentation associated with that repo.
+
+There is an order to the demos in the
+**[Material-UI Tutorial](https://github.com/topics/material-ui-tutorial)**
+and this one is the last tutorial to review.  We highly recommend reviewing the other tutorials first so that you get all of the background information you need prior to reviewing this tutorial.
+
+* [mui-drawer](https://stormasm.github.io/mui-drawer/)
+* [ghw-drawer](https://muitool.github.io/ghw-drawer/)
+
+* [mui-menu](https://stormasm.github.io/mui-menu/)
+* [ghw-menu](https://muitool.github.io/ghw-menu/)
 
 ### The Card Views
 
