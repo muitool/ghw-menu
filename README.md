@@ -102,11 +102,3 @@ and come up with interesting views of your data.
 The View takes in the prop **tileData** which is the data that was fetched from the API in the DataViewWrapper.  Then the tileData is mapped onto each component that you define in your View.
 
 Any custom view that you define will take in tileData as a prop and then its up to you to build out your own styled component View.
-
-### The Material-UI Tutorial
-
-If you have not already read the **[The Material-UI Tutorial](https://stormasm.github.io/mui-tutorial/)**
-you should read it first prior to diving deeply into
-this code base.  It will give you all of the background
-material you need to better understand the concepts
-discussed in this code.
